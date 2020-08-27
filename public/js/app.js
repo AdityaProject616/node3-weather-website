@@ -1,4 +1,4 @@
-console.log("Client side JavaScript File is Loaded")
+
 //fetch is client side Javascript so we are not using as we r working with server side js
 
 const weatherForm = document.querySelector('form')                            //name selection same like css
